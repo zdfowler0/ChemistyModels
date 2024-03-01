@@ -23,4 +23,4 @@ y4 = [1, 1/2];
 z4 = [1, 1/2];
 
 % plot tetrahedra arangement
-plot3(x1, y1, z1, "o", x2, y2, z2, "blue", x3, y3, z3, "green", x4, y4, z4, "magenta")
+plot3(x1, y1, z1, "red", x2, y2, z2, "blue", x3, y3, z3, "green", x4, y4, z4, "magenta")
